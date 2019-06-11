@@ -23,21 +23,25 @@ Typical structure of the HomeActivity goes as follows:
 
 Now let's start with individual parts.
 
-## HomeFrag
+## HomeFragment
 
 HomeFrag is the place where you can get latest Tests, Results etc. It's also the connecting point of 
 **cumulative analysis** and **nLeanCorner**. 
 
-## TestFrag
+Below is the screens, you can navigate to from HomeFragment.
+
+![image](https://i.imgur.com/dvLIm1r.png)
+
+## TestFragment
 
 TestFrag is the place where you can get all the **scheduled tests** available and then you can travel through 
 and take a particular test, submit and see the result.
 
-## PerformanceFrag
+## PerformanceFragment
 
 PerformanceFrag is the place where an user can get result of all the tests that S/he has taken.
 
-## Dependency Injection (di) For PerformanceFrag
+## Dependency Injection (di) For PerformanceFragment
 
 
 Below is the **dependency injection graph for any fragment** throughout:-
