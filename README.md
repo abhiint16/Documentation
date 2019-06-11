@@ -17,7 +17,7 @@ same way as you can travel through the application.
 Typical structure of the HomeActivity goes as follows:
 
 
-![image](https://i.imgur.com/H7Vzn7o.png)
+![image](https://i.imgur.com/VTvakUm.png)
 
 
 
@@ -30,7 +30,7 @@ HomeFrag is the place where you can get latest Tests, Results etc. It's also the
 
 Below is the screens, you can navigate to from HomeFragment.
 
-![image](https://i.imgur.com/dvLIm1r.png)
+![image](https://i.imgur.com/0aTND3j.png)
 
 ## TestFragment
 
@@ -48,6 +48,8 @@ Below is the **dependency injection graph for any fragment** throughout:-
 
 
 ![image](https://i.imgur.com/IhE7lJ6.png)
+
+Now, we don't need any **Provider** to inject the basic dependency to our **ActivityModule**.
 
 Below is the **dependency injection graph for any Activity** throughout:-
 
