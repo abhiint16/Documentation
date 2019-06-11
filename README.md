@@ -41,3 +41,8 @@ PerformanceFrag is the place where an user can get result of all the tests that 
 
 ![image](https://i.imgur.com/vGUrCqa.png)
 
+Now, the hierachy of Performance is as follows, it shows how you can go from one screen to another inside performance.
+
+
+![image](https://i.imgur.com/XwCFRjj.png)
+
