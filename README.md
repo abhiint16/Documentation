@@ -43,7 +43,7 @@ PerformanceFrag is the place where an user can get result of all the tests that 
 Below is the **dependency injection graph for any fragment** throughout:-
 
 
-![image](https://i.imgur.com/vGUrCqa.png)
+![image](https://i.imgur.com/IhE7lJ6.png)
 
 Below is the **dependency injection graph for any Activity** throughout:-
 
