@@ -17,7 +17,7 @@ same way as you can travel through the application.
 Typical structure of the HomeActivity goes as follows:
 
 
-![image](https://i.imgur.com/F2XTZky.png)
+![image](https://i.imgur.com/H7Vzn7o.png)
 
 
 
