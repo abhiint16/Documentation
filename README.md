@@ -39,10 +39,17 @@ PerformanceFrag is the place where an user can get result of all the tests that 
 
 ## Dependency Injection (di) For PerformanceFrag
 
+
+Below is the **dependency injection graph for any fragment** throughout:-
+
+
 ![image](https://i.imgur.com/vGUrCqa.png)
 
-Now, the hierachy of Performance is as follows, it shows how you can go from one screen to another inside performance.
+Below is the **dependency injection graph for any Activity** throughout:-
 
+![image](https://i.imgur.com/HfkNnZl.png)
+
+Now, the hierachy of Performance is as follows, it shows how you can go from one screen to another inside performance.
 
 ![image](https://i.imgur.com/XwCFRjj.png)
 
