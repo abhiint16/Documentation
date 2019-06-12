@@ -57,5 +57,5 @@ Below is the **dependency injection graph for any Activity** throughout:-
 
 Now, the hierachy of Performance is as follows, it shows how you can go from one screen to another inside performance.
 
-![image](https://i.imgur.com/XwCFRjj.png)
+![image](https://i.imgur.com/1j6sXrO.png)
 
