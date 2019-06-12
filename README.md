@@ -25,7 +25,7 @@ Now let's start with individual parts.
 
 ## HomeFragment
 
-HomeFrag is the place where you can get latest Tests, Results etc. It's also the connecting point of 
+HomeFragment is the place where you can get latest Tests, Results etc. It's also the connecting point of 
 **cumulative analysis** and **nLeanCorner**. 
 
 Below is the screens, you can navigate to from HomeFragment.
@@ -34,12 +34,12 @@ Below is the screens, you can navigate to from HomeFragment.
 
 ## TestFragment
 
-TestFrag is the place where you can get all the **scheduled tests** available and then you can travel through 
+TestFragment is the place where you can get all the **scheduled tests** available and then you can travel through 
 and take a particular test, submit and see the result.
 
 ## PerformanceFragment
 
-PerformanceFrag is the place where an user can get result of all the tests that S/he has taken.
+PerformanceFragment is the place where an user can get result of all the tests that S/he has taken.
 
 ## Dependency Injection (di) For PerformanceFragment
 
