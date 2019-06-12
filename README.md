@@ -28,7 +28,7 @@ Now let's start with individual parts.
 HomeFragment is the place where you can get latest Tests, Results etc. It's also the connecting point of 
 **cumulative analysis** and **nLeanCorner**. 
 
-Below is the screens, you can navigate to from HomeFragment.
+Below are the screens, you can navigate to from HomeFragment.
 
 ![image](https://i.imgur.com/0aTND3j.png)
 
